@@ -1,0 +1,48 @@
+/* default set to 0 and no width nor height to size any device*/
+body{
+  background-color: #808080;
+  margin: 0px;
+  font-family: Verdana, Serif, Georgia; 
+  font-size: 14px; 
+}
+
+/* Header */
+#header{
+    background-color: #4d4d4d;
+    margin: opx;
+    font-size: 14px;
+    font-family:Verdana, Serif, Georgia;
+    border-radius: 4px;
+}
+/* Main Content */
+.main{
+    background-color: #4d4d4d;
+    margin: 10px;
+    border-radius: 4px;
+    font-size: 110%;
+    padding: 20px;
+
+}
+
+
+h1{
+    font-size: 115px;
+    color: greenyellow;
+
+}
+
+p{
+    font-size: larger;
+    color: greenyellow;
+    ;
+}
+
+.list{color: #adff2f;
+
+font-size: large;}
+
+h2{color: #adff2f;
+text-align: center;
+font-size: 100px;
+}
+
