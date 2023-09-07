@@ -17,7 +17,10 @@ body{
 /* Main Content */
 .main{
     background-color: #4d4d4d;
-    margin: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 320px;
+    margin-left: 10px;
     border-radius: 4px;
     font-size: 110%;
     padding: 20px;
@@ -45,4 +48,62 @@ h2{color: #adff2f;
 text-align: center;
 font-size: 100px;
 }
+
+.rightsidebar{
+    margin-top: 0px;
+    margin-bottom:10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 4px;
+    float: right;
+    width:260px;
+    clear: right;
+    
+
+
+    
+/* rightsidebar */
+.img{width: 500px;}
+
+
+/* rightsidebar Events*/
+
+.event1:hover{ 
+    background-color: green;
+    color: lightcyan;
+}
+.event2:hover{
+    background-color: #0000ff;
+    color:  #000000;
+}
+.event3:hover{
+    background-color: black;
+    color: bisque;
+}
+.event4:hover{
+    background-color: #ff0000;
+    color: white;
+}
+
+
+/*golden stool*/
+
+    
+    
+}
+img:hover{opacity: 0.4;}
+
+/* footer*/
+#footer{
+  color: whitesmoke;
+  margin: 10px;
+  height: 60px;border-radius: 4px;
+  text-align: center;
+  clear: both;
+  
+}
+
+
 
